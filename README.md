@@ -1,5 +1,4 @@
-# Name project
-test calculator
+# test calculator
 
 ## Description
 
