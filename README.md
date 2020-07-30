@@ -17,8 +17,10 @@ In this project I used:
 ## To build project 
 
 If you don not use intelliJ IDEA, you have to install maven and excecute
-``` mvn clean
+```
+mvn clean
 mvn verify
-mvn test -e ```
+mvn test -e
+```
 
 If you use intelliJ just click in build project
