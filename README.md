@@ -23,3 +23,11 @@ mvn test -e
 ```
 
 If you use intelliJ just click in build project
+
+##How to improve the test?
+
+- generate an ordered structure of all the code layers under a test methodology such as BDD or TDD
+- Make a cleaner code out of comments with impressions to the log
+- Move selectors away from class logic and capabilities
+- Do not use literal text within the code, move everything to constants
+- More base information could be generated within the tutorial, such as documentation on capabilities and libraries to use
